@@ -7,7 +7,7 @@
   align-items: center;
   padding: v.$separacion 0;
 
-  @include m.tablet {
+  @include m.desktop {
     flex-direction: row;
     justify-content: space-between;
   }
