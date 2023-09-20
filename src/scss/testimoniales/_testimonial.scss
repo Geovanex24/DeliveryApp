@@ -12,7 +12,7 @@
     margin-bottom: 0;
   }
 
-  @include m.tablet {
+  @include m.desktop {
     margin-bottom: 0;
     &:nth-child(1) {
       grid-column: 1/4;

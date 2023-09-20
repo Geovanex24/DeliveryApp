@@ -9,7 +9,7 @@
   }
 
   &__grid {
-    @include m.tablet {
+    @include m.desktop {
       @include m.grid(5, 2rem);
     }
   }
